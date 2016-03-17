@@ -1,0 +1,17 @@
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\bin\Debug\BankCustomerApplication.exe.config
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\bin\Debug\BankCustomerApplication.exe
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\bin\Debug\BankCustomerApplication.pdb
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.BankCustomerApplication.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.Properties.Resources.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.csproj.GenerateResource.Cache
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.exe
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.pdb
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.InsertNewCustomer.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.FormDeleteCustomer.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.FormCustomerDataForUpdating.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.TransferingMoneyForm.resources
+C:\Users\Kennedy\Desktop\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.SearchForCustomersForm.resources
+D:\New folder\visual studio applications\BankCustomerApplication\BankCustomerApplication\bin\Debug\BankCustomerApplication.exe.config
+D:\New folder\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.exe
+D:\New folder\visual studio applications\BankCustomerApplication\BankCustomerApplication\obj\Debug\BankCustomerApplication.pdb
